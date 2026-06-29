@@ -145,7 +145,7 @@ pip install torch pandas numpy scikit-learn matplotlib seaborn plotly
 
 ### 3. Add the dataset files
 
-Download the competition data from [Kaggle](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-robot/data) and place `train.csv`, `test.csv`, and `bids.csv` in the project root.
+Download the competition data and place `train.csv`, `test.csv`, and `bids.csv` in the project root.
 
 ### 4. Open and run the notebook
 
@@ -182,4 +182,4 @@ Run all cells top to bottom. `submission.csv` will be generated and downloaded a
 
 ##  License
 
-This project is for educational purposes. Dataset terms are governed by the [Kaggle competition rules](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-robot/rules).
+This project is for educational purposes. Dataset terms are governed by the Kaggle competition rules.
