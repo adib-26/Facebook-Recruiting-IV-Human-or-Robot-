@@ -1,6 +1,6 @@
 # Facebook-Recruiting-IV-Human-or-Robot-
 
-> **Kaggle Competition:** [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot)  
+> **Kaggle Competition:** [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot) (Download bids.csv from here) 
 > Predict whether an online auction bid was placed by a human or an automated bot.
 
 ---
